@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/_inc/vendor/tamtamchik/simple-flash" />
+      <path value="$PROJECT_DIR$/_inc/vendor/bjeavons/zxcvbn-php" />
+      <path value="$PROJECT_DIR$/_inc/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/_inc/vendor/PHPAuth-master/languages" />
+      <path value="$PROJECT_DIR$/_inc/vendor/PHPAuth-master/files" />
+      <path value="$PROJECT_DIR$/_inc/vendor/PHPAuth-master/.github" />
+      <path value="$PROJECT_DIR$/_inc/vendor/PHPAuth-master/examples" />
+      <path value="$PROJECT_DIR$/_inc/vendor/PHPAuth-master/database_defs" />
+      <path value="$PROJECT_DIR$/_inc/vendor/composer" />
+    </include_path>
+  </component>
+</project>

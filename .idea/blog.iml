@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/_inc/vendor/PHPAuth-master/.github" />
+      <excludeFolder url="file://$MODULE_DIR$/_inc/vendor/PHPAuth-master/database_defs" />
+      <excludeFolder url="file://$MODULE_DIR$/_inc/vendor/PHPAuth-master/examples" />
+      <excludeFolder url="file://$MODULE_DIR$/_inc/vendor/PHPAuth-master/files" />
+      <excludeFolder url="file://$MODULE_DIR$/_inc/vendor/PHPAuth-master/languages" />
+      <excludeFolder url="file://$MODULE_DIR$/_inc/vendor/bjeavons/zxcvbn-php" />
+      <excludeFolder url="file://$MODULE_DIR$/_inc/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/_inc/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/_inc/vendor/tamtamchik/simple-flash" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

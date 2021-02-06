@@ -1,0 +1,10 @@
+30 Jul 2015, 14:10
+----------------------------
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';sda-0visd0-] cabbage' at line 1 in [ /Users/yablko/www/blog/_inc/config.php : 56 ] 
+
+
+30 Jul 2015, 14:10
+----------------------------
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'miniblog.cabbage' doesn't exist in [ /Users/yablko/www/blog/_inc/config.php : 56 ] 
+
+

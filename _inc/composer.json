@@ -1,0 +1,6 @@
+{
+    "require": {
+        "tamtamchik/simple-flash": "^0.4.2",
+        "bjeavons/zxcvbn-php": "^1.0"
+    }
+}
